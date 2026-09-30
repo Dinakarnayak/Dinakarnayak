@@ -4,9 +4,9 @@
 
 # Dinakar Nayak Narasimha Murthy
 
-### AI/ML Engineer · Software Developer · AI Systems Builder
+### AI/ML Engineer · Software Developer · UI/UX Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=850&color=3F74DD&center=true&vCenter=true&width=760&lines=Building+practical+AI+systems;Generative+AI+%7C+NLP+%7C+LLMs;AI+Agents+%7C+Backend+%7C+Full-Stack;Research+%E2%86%92+Prototype+%E2%86%92+Product" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=850&color=3F74DD&center=true&vCenter=true&width=820&lines=Building+practical+AI+systems;Generative+AI+%7C+NLP+%7C+LLMs;AI+Agents+%7C+Backend+%7C+Full-Stack;UI%2FUX+%7C+Design+Systems+%7C+Responsive+Interfaces;Research+%E2%86%92+Prototype+%E2%86%92+Product" alt="Animated introduction">
 
 <p>
   <a href="https://dinakarnayak.github.io/Portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20Portfolio-3F74DD?style=for-the-badge" alt="Open Portfolio"></a>
@@ -54,15 +54,15 @@ Building practical intelligent systems across **AI agents, Generative AI, NLP, L
 
 <div align="center">
 
-| 🧠 AI Engineering | ⚙️ Software Engineering | 🚀 Product Mindset |
-|---|---|---|
-| Agents · LLMs · NLP · ML | APIs · Backend · Full-Stack | Prototype · Evaluate · Deploy |
+| 🧠 AI Engineering | ⚙️ Software Engineering | 🎨 UI/UX Engineering | 🚀 Product Mindset |
+|---|---|---|---|
+| Agents · LLMs · NLP · ML | APIs · Backend · Full-Stack | UX · UI · Responsive · Design Systems | Prototype · Evaluate · Deploy |
 
 </div>
 
 > **Research → Prototype → Evaluate → Deploy**
 
-I focus on building AI systems that are not only functional, but also **observable, testable, explainable, and practical to deploy**.
+I focus on building AI products that are not only functional, but also **observable, testable, explainable, intuitive, accessible, responsive, and practical to deploy**.
 
 ---
 
@@ -96,6 +96,20 @@ Currently pursuing an **MSc Artificial Intelligence with Industry** at the **Uni
 </td>
 </tr>
 </table>
+
+---
+
+## 🎨 UI/UX & Product Design
+
+<div align="center">
+
+**UI Design** · **UX Design** · **Responsive Design** · **Design Systems** · **Accessibility** · **Interaction Design** · **Prototyping** · **Information Architecture**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" alt="UI UX and frontend technologies">
+
+</div>
 
 ---
 
@@ -287,6 +301,8 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 
 <img src="https://img.shields.io/badge/AI%20Agents-Building-3F74DD?style=for-the-badge" alt="AI Agents">
 <img src="https://img.shields.io/badge/Generative%20AI-Exploring-6E7888?style=for-the-badge" alt="Generative AI">
+<img src="https://img.shields.io/badge/UI%2FUX-Design%20%2B%20Engineering-3F74DD?style=for-the-badge" alt="UI UX">
+<img src="https://img.shields.io/badge/Responsive%20Web-Interfaces-6E7888?style=for-the-badge" alt="Responsive Web">
 <img src="https://img.shields.io/badge/Backend-Engineering-3F74DD?style=for-the-badge" alt="Backend Engineering">
 <img src="https://img.shields.io/badge/Production-Minded-6E7888?style=for-the-badge" alt="Production minded">
 
