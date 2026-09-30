@@ -232,6 +232,69 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 
 ---
 
+## 🏅 GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dinakarnayak&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinakarnayak&bg_color=00000000&color=6E7888&line=3F74DD&point=3F74DD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
+
+</div>
+
+---
+
+## 🧠 Engineering Snapshot
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖
+**AI Systems**
+
+<sub>Agents · LLMs · NLP</sub>
+
+</td>
+<td width="25%" align="center">
+
+### ⚙️
+**Software**
+
+<sub>APIs · Backend · Full-Stack</sub>
+
+</td>
+<td width="25%" align="center">
+
+### 🔬
+**Research**
+
+<sub>ML · XAI · Experiments</sub>
+
+</td>
+<td width="25%" align="center">
+
+### ☁️
+**Deployment**
+
+<sub>AWS · Docker · Vercel</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Build-Research%20%2B%20Engineering-3F74DD?style=flat-square" alt="Build">
+<img src="https://img.shields.io/badge/Approach-Prototype%20%2B%20Iterate-6E7888?style=flat-square" alt="Approach">
+<img src="https://img.shields.io/badge/Focus-Practical%20AI-3F74DD?style=flat-square" alt="Focus">
+
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
