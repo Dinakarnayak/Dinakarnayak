@@ -240,7 +240,15 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinakarnayak&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinakarnayak/Dinakarnayak/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinakarnayak/Dinakarnayak/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Dinakarnayak/Dinakarnayak/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity snake">
+</picture>
+
+<br>
+
+<sub>Contribution activity visualised from my GitHub contribution calendar and generated automatically by GitHub Actions.</sub>
 
 </div>
 
