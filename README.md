@@ -236,11 +236,11 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dinakarnayak&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies">
+<p><b>🏆 GitHub Trophies</b></p><sub>Live trophy widgets are currently unavailable from the public hosting service, so this section is kept clean rather than showing a broken image.</sub>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinakarnayak&bg_color=00000000&color=6E7888&line=3F74DD&point=3F74DD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinakarnayak&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
 
 </div>
 
