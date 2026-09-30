@@ -357,6 +357,120 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 
 ---
 
+## 🧱 Engineering Principles
+
+<div align="center">
+
+| 🔍 Discover | 🧩 Design | 🛠️ Build | 🧪 Validate | 🚀 Deploy |
+|---|---|---|---|---|
+| Understand the problem | UX + architecture | Implement | Test + evaluate | Ship + iterate |
+
+</div>
+
+- **Human-centered:** Build interfaces and AI systems around real user needs.
+- **Modular:** Prefer reusable components, services, and clear system boundaries.
+- **Observable:** Make AI workflows measurable through logs, traces, evaluation, and feedback.
+- **Secure:** Apply authentication, authorization, validation, and responsible AI practices.
+- **Scalable:** Design with maintainability and practical deployment in mind.
+
+---
+
+## 🧪 AI & Software Development Workflow
+
+<div align="center">
+
+**💡 Idea** → **📐 Design** → **🤖 Prototype** → **🧪 Evaluate** → **🔐 Secure** → **☁️ Deploy** → **📈 Improve**
+
+</div>
+
+---
+
+## 📈 Development Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI Engineering
+
+LLMs · AI Agents  
+NLP · ML · Deep Learning  
+RAG · Evaluation · XAI
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 UI/UX Engineering
+
+Responsive Interfaces  
+Design Systems · Accessibility  
+User Flows · Interaction Design
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Software Engineering
+
+APIs · Backend · Full-Stack  
+Databases · Authentication  
+Cloud · Docker · CI/CD
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔐 Engineering & Security
+
+**Secure APIs** · **JWT** · **RBAC** · **Input Validation** · **Environment Configuration** · **Responsible AI** · **Privacy-Aware Design**
+
+---
+
+## 🧰 Development Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,html,css,react,nodejs,python,cpp,java,typescript,javascript" alt="Development toolkit">
+
+</div>
+
+---
+
+## 📚 Learning & Research
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=2600&pause=900&color=6E7888&center=true&vCenter=true&width=820&lines=Exploring+new+AI+architectures;Improving+LLM+and+agent+evaluation;Building+better+developer+experiences;Learning+through+projects+and+experimentation;Connecting+AI+with+human-centered+design" alt="Learning and research animation">
+
+</div>
+
+---
+
+## 🌟 What I Bring
+
+- **AI + Software:** Connect intelligent models with reliable software systems.
+- **AI + UI/UX:** Turn complex AI capabilities into understandable user experiences.
+- **Engineering + Product:** Move from prototype concepts toward usable products.
+- **Research + Practice:** Experiment, evaluate, learn, and iterate.
+
+---
+
+## 📌 Profile at a Glance
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-Engineering-3F74DD?style=flat-square" alt="AI ML Engineering">
+<img src="https://img.shields.io/badge/Generative%20AI-LLMs-6E7888?style=flat-square" alt="Generative AI">
+<img src="https://img.shields.io/badge/AI%20Agents-Developer%20Tools-3F74DD?style=flat-square" alt="AI Agents">
+<img src="https://img.shields.io/badge/UI%2FUX-Product%20Design-6E7888?style=flat-square" alt="UI UX">
+<img src="https://img.shields.io/badge/Full--Stack-Development-3F74DD?style=flat-square" alt="Full Stack">
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-6E7888?style=flat-square" alt="Cloud">
+
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
