@@ -14,7 +14,9 @@
   <a href="mailto:dinakarnayak4248@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Contact-20232A?style=for-the-badge" alt="Contact"></a>
 </p>
 
-<a href="https://github.com/Dinakarnayak"><img src="https://komarev.com/ghpvc/?username=Dinakarnayak&label=PROFILE%20VIEWS&color=3F74DD&style=for-the-badge&abbreviated=true" alt="Profile views"></a>
+<a href="https://github.com/Dinakarnayak"><img src="https://komarev.com/ghpvc/?username=Dinakarnayak&label=Profile%20Views&color=3F74DD&style=flat-square" alt="Profile views"></a>
+<a href="https://github.com/Dinakarnayak?tab=followers"><img src="https://img.shields.io/github/followers/Dinakarnayak?label=Followers&style=flat-square&color=3F74DD" alt="GitHub followers"></a>
+<a href="https://github.com/Dinakarnayak?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-6E7888?style=flat-square" alt="Repositories"></a>
 
 <br>
 
