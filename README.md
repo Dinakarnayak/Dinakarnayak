@@ -16,6 +16,31 @@
 
 <img src="https://komarev.com/ghpvc/?username=Dinakarnayak&label=Profile%20Views&color=3F74DD&style=flat-square" alt="Profile views">
 
+<br>
+
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+### 🎯 AI/ML Engineer · Software Developer
+
+Building practical intelligent systems across **AI agents, Generative AI, NLP, LLMs, machine learning, backend APIs, and full-stack development**.
+
+<p>
+<a href="https://dinakarnayak.github.io/Portfolio/"><b>🌐 Open Portfolio →</b></a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/"><b>💼 LinkedIn →</b></a>
+</p>
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/Dinakarnayak/Portfolio/main/assets/uni.jpeg" width="300" alt="Dinakar at the University of Leicester">
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
