@@ -211,7 +211,7 @@ FastAPI video agent for media processing, transcription, metadata generation, an
 | Role | Organisation | Period |
 |---|---|---|
 | **Founder** | Next Tech AI · Remote | Jan 2025 – Present |
-| **AI Intern** | Wajooba India Private Limited · Remote | Jan 2025 – Jul 2025 |
+| **Artificial Intelligence Engineer** | Wajooba · United States · Remote | Jan 2025 – Jul 2025 · 7 mos |
 | **Fulfillment Associate** | Amazon · UK | Jun 2026 – Sep 2026 |
 
 <details>
@@ -220,8 +220,10 @@ FastAPI video agent for media processing, transcription, metadata generation, an
 **Next Tech AI**  
 Building an early-stage AI and software venture through research, prototyping, product direction, UI/UX, and iterative development.
 
-**Wajooba India Private Limited**  
-Worked on GPT-based course content generation, NLP pipelines, LLM fine-tuning, and deployment.
+**Wajooba**  
+Worked as an **Artificial Intelligence Engineer**, contributing to AI-driven software development, GPT-based course content generation, NLP pipelines, LLM fine-tuning, and deployment.
+
+**Technology:** TypeScript · Pinecone
 
 **Amazon UK**  
 Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML and software engineering.
