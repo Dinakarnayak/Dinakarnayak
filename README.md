@@ -1,95 +1,208 @@
-# Dinakar Nayak Narasimha Murthy
+<!-- PROFILE HEADER -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3200&pause=1200&color=3F74DD&center=true&vCenter=true&width=850&lines=Dinakar+Nayak+Narasimha+Murthy;AI%2FML+Engineer+%7C+Software+Developer+%7C+UI%2FUX+Builder" alt="Animated name">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3200&pause=1200&color=3F74DD&center=true&vCenter=true&width=900&lines=Dinakar+Nayak+Narasimha+Murthy;AI%2FML+Engineer+%C2%B7+Software+Developer+%C2%B7+UI%2FUX+Builder" alt="Animated name and professional identity">
+
+# Dinakar Nayak Narasimha Murthy
 
 ### AI/ML Engineer · Software Developer · UI/UX Builder
 
-<a href="https://dinakarnayak.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-3F74DD?style=for-the-badge" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:dinakarnayak4248@gmail.com"><img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge" alt="Email"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=850&color=3F74DD&center=true&vCenter=true&width=820&lines=Building+practical+AI+systems;Generative+AI+%7C+NLP+%7C+LLMs;AI+Agents+%7C+Backend+%7C+Full-Stack;UI%2FUX+%7C+Design+Systems+%7C+Responsive+Interfaces;Research+%E2%86%92+Prototype+%E2%86%92+Product" alt="Animated introduction">
+
+<p>
+  <a href="https://dinakarnayak.github.io/Portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20Portfolio-3F74DD?style=for-the-badge" alt="Open Portfolio"></a>
+  <a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dinakarnayak4248@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Contact-20232A?style=for-the-badge" alt="Contact"></a>
+</p>
+
+<a href="https://github.com/Dinakarnayak"><img src="https://komarev.com/ghpvc/?username=Dinakarnayak&label=Profile%20Views&color=3F74DD&style=flat-square" alt="Profile views"></a>
+<a href="https://img.shields.io/github/followers/Dinakarnayak?label=Followers&style=flat-square&color=3F74DD"><img src="https://img.shields.io/github/followers/Dinakarnayak?label=Followers&style=flat-square&color=3F74DD" alt="GitHub followers"></a>
+<a href="https://github.com/Dinakarnayak?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-6E7888?style=flat-square" alt="Repositories"></a>
+<a href="https://github.com/Dinakarnayak/Dinakarnayak"><img src="https://img.shields.io/github/last-commit/Dinakarnayak/Dinakarnayak?label=Updated&style=flat-square&color=3F74DD" alt="Last updated"></a>
 
 <br>
 
-<a href="https://github.com/Dinakarnayak"><img src="https://komarev.com/ghpvc/?username=Dinakarnayak&label=Profile%20Views&color=3F74DD&style=flat-square" alt="Profile views"></a>
-<a href="https://github.com/Dinakarnayak?tab=followers"><img src="https://img.shields.io/github/followers/Dinakarnayak?label=Followers&style=flat-square&color=3F74DD" alt="GitHub followers"></a>
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+### 🎯 AI/ML Engineer · Software Developer · UI/UX Builder
+
+Building practical intelligent systems across **AI agents, Generative AI, NLP, LLMs, machine learning, backend APIs, full-stack development, and UI/UX**.
+
+<p>
+<a href="https://dinakarnayak.github.io/Portfolio/"><b>🌐 Open Portfolio →</b></a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/"><b>💼 LinkedIn →</b></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Dinakarnayak?tab=repositories"><b>🚀 Explore Projects →</b></a>
+</p>
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/Dinakarnayak/Portfolio/main/assets/uni.jpeg" width="300" alt="Dinakar at the University of Leicester">
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧩 Engineering Identity
 
-I am an **AI/ML Engineer and Software Developer** focused on building practical technology across **Artificial Intelligence, Machine Learning, Generative AI, AI Agents, backend development, full-stack applications, and UI/UX**.
+<div align="center">
+
+| 🧠 AI Engineering | ⚙️ Software Engineering | 🎨 UI/UX Engineering | 🚀 Product Mindset |
+|---|---|---|---|
+| Agents · LLMs · NLP · ML | APIs · Backend · Full-Stack | UX · UI · Responsive · Design Systems | Prototype · Evaluate · Deploy |
+
+</div>
+
+> **Research → Prototype → Evaluate → Deploy**
+
+I focus on building AI products that are not only functional, but also **observable, testable, explainable, intuitive, accessible, responsive, and practical to deploy**.
+
+---
+
+## 🧭 About Me
+
+> **Curious about intelligent systems. Grounded in engineering.**
+
+I build practical AI and software systems across **machine learning, NLP, generative AI, AI agents, backend APIs, full-stack development, and UI/UX**.
 
 Currently pursuing an **MSc Artificial Intelligence with Industry** at the **University of Leicester, UK**.
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🎓 Education
+- **MSc AI with Industry** — University of Leicester
+- **B.Tech CSE — AI & ML** — Dayananda Sagar University
+- **B.Tech CGPA:** 8.31/10
 
-- **MSc Artificial Intelligence with Industry** — University of Leicester
-- **B.Tech Computer Science & Engineering (AI & ML)** — Dayananda Sagar University
-- **CGPA:** 8.31/10
+</td>
+<td width="50%">
 
----
+### 🔬 Current Focus
+- AI agents & developer tooling
+- LLMs, NLP & Generative AI
+- Explainable AI & ML
+- Backend APIs & full-stack systems
+- UI/UX & responsive interfaces
+- Production-minded AI
 
-## 🛠️ Skills
-
-### Programming
-**Python · C++ · Java · JavaScript · TypeScript**
-
-### AI / Machine Learning
-**Machine Learning · Deep Learning · Generative AI · NLP · LLMs · AI Agents · Computer Vision · Explainable AI**
-
-### Frameworks & Libraries
-**TensorFlow · PyTorch · Keras · Scikit-learn · OpenCV · FastAPI · Flask · React · Node.js · Express.js**
-
-### Databases & Backend
-**MySQL · PostgreSQL · MongoDB · REST APIs · JWT · RBAC · TypeORM · Sequelize · Mongoose**
-
-### UI/UX & Frontend
-**UI Design · UX Design · Responsive Design · Design Systems · Accessibility · Interaction Design · HTML · CSS · React · Figma**
-
-### Cloud & Tools
-**AWS · Docker · Vercel · Git · GitHub**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 UI/UX & Product Design
+
+<div align="center">
+
+**UI Design** · **UX Design** · **Responsive Design** · **Design Systems** · **Accessibility** · **Interaction Design** · **Prototyping** · **Information Architecture**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" alt="UI UX and frontend technologies">
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" alt="Programming languages">
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and ML tools">
+
+**Machine Learning** · **Deep Learning** · **Generative AI** · **NLP** · **LLMs** · **LLM Fine-tuning** · **XAI**
+
+### Frameworks · Backend · Cloud
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,mysql,postgres,mongodb,aws,vercel" alt="Frameworks backend databases and cloud">
+
+**REST APIs** · **JWT** · **RBAC** · **TypeORM** · **Sequelize** · **Mongoose** · **Docker**
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Autonomous AI Coding Agent
-AI coding agent that works with GitHub issues, proposes code changes, validates them in an isolated environment, and supports draft pull requests.
+Human-reviewed coding agent that turns a GitHub issue into a proposed patch, validates it in an isolated Docker sandbox, and can open a draft PR.
 
 **Python · FastAPI · LangGraph · Docker**
 
 <a href="https://github.com/Dinakarnayak/autonomous-ai-coding-agent">View Repository →</a>
 
+</td>
+<td width="50%" valign="top">
+
 ### 🔎 TraceLens Agent Observability
-A workbench for inspecting AI agent traces, latency, errors, token usage, estimated cost, and evaluation results.
+Self-hostable workbench for inspecting AI agent traces, latency, errors, token usage, estimated cost, and repeatable output evaluations.
 
 **Python · FastAPI · SQLite · Docker**
 
 <a href="https://github.com/Dinakarnayak/tracelens-agent-observability">View Repository →</a>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛡️ Generative AI for Fraud Detection
-Machine learning project exploring generative approaches for fraud detection with explainability.
+Explores generative approaches for fraud detection using GANs and VAEs with XGBoost and SHAP-based explainability.
 
 **GANs · VAEs · XGBoost · SHAP**
 
 <a href="https://github.com/Dinakarnayak/Generative-AI-for-Fraud">View Repository →</a>
 
+</td>
+<td width="50%" valign="top">
+
 ### 🎙️ Bunny Agent
-FastAPI-based media agent for video processing, transcription, metadata generation, and semantic search.
+FastAPI video agent for media processing, transcription, metadata generation, and semantic search.
 
 **FastAPI · Whisper · FFmpeg · Pinecone**
 
 <a href="https://github.com/Dinakarnayak/bunny_agent">View Repository →</a>
 
-### 📚 Other Projects
+</td>
+</tr>
+</table>
 
-**GenomeGuard · LinguaSpeak · TrustVote / Z-Vote · AI Task Web App · WorkForce API · EMS-Pro · Next Tech Platform**
+### More AI & Software Projects
 
-<a href="https://github.com/Dinakarnayak?tab=repositories">Explore All Repositories →</a>
+**GenomeGuard** · **LinguaSpeak** · **TrustVote / Z-Vote** · **AI Task Web App** · **WorkForce API** · **EMS-Pro** · **Deep Learning Assignments** · **Next Tech Platform**
+
+<p align="center">
+  <a href="https://github.com/Dinakarnayak?tab=repositories">Explore all repositories →</a>
+</p>
+
+---
+
+## ⚡ What I'm Building
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=2400&pause=900&color=6E7888&center=true&vCenter=true&width=760&lines=AI+agents+that+can+reason%2C+act+and+be+evaluated;Developer+tools+for+observable+AI+systems;LLM%2FNLP+systems+with+practical+deployment+paths;UI%2FUX+interfaces+that+make+complex+systems+usable;Turning+research+ideas+into+usable+software" alt="Current focus animation">
+
+</div>
 
 ---
 
@@ -97,49 +210,183 @@ FastAPI-based media agent for video processing, transcription, metadata generati
 
 | Role | Organisation | Period |
 |---|---|---|
-| **Founder** | Next Tech AI | Jan 2025 – Present |
-| **AI Intern** | Wajooba India Private Limited | Jan 2025 – Jul 2025 |
-| **Fulfillment Associate** | Amazon UK | Jun 2026 – Sep 2026 |
+| **Founder** | Next Tech AI · Remote | Jan 2025 – Present |
+| **AI Intern** | Wajooba India Private Limited · Remote | Jan 2025 – Jul 2025 |
+| **Fulfillment Associate** | Amazon · UK | Jun 2026 – Sep 2026 |
+
+<details>
+<summary><b>View experience details</b></summary>
+
+**Next Tech AI**  
+Building an early-stage AI and software venture through research, prototyping, product direction, UI/UX, and iterative development.
+
+**Wajooba India Private Limited**  
+Worked on GPT-based course content generation, NLP pipelines, LLM fine-tuning, and deployment.
+
+**Amazon UK**  
+Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML and software engineering.
+
+</details>
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 
-- AWS Certified Machine Learning — Specialty
-- ServiceNow Certified Application Developer
-- ServiceNow Certified System Administrator
-- Certified Ethical Hacker
-- Ethical Hacking / Penetration Testing & Bug Bounty
-- Statistics for R Programming Language
-- Java Database Connectivity (JDBC)
-- Cybersecurity
-- Computer-Aided Design (CAD)
-
----
-
-## 🎯 Current Focus
-
-- Artificial Intelligence & Machine Learning
-- Generative AI and LLM applications
-- AI agents and developer tools
-- Backend and full-stack development
-- UI/UX and responsive interfaces
-- Practical AI product development
+<table>
+<tr>
+<td>☁️ AWS Certified Machine Learning — Specialty</td>
+<td>ServiceNow Certified Application Developer</td>
+</tr>
+<tr>
+<td>ServiceNow Certified System Administrator</td>
+<td>Certified Ethical Hacker</td>
+</tr>
+<tr>
+<td>Statistics for R Programming Language</td>
+<td>Java Database Connectivity (JDBC)</td>
+</tr>
+<tr>
+<td>Cybersecurity</td>
+<td>Computer-Aided Design (CAD)</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://dinakarnayak.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-3F74DD?style=for-the-badge" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Dinakarnayak"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dinakarnayak&show_icons=true&hide_border=true&theme=transparent&title_color=3F74DD&icon_color=3F74DD&text_color=6E7888&rank_icon=github" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinakarnayak&layout=compact&hide_border=true&theme=transparent&title_color=3F74DD&text_color=6E7888&langs_count=8" alt="Top languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Dinakarnayak&hide_border=true&background=transparent&ring=3F74DD&fire=3F74DD&currStreakLabel=3F74DD&sideLabels=6E7888&dates=8E98A7" alt="GitHub streak">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinakarnayak&theme=github_dark" alt="GitHub profile activity summary">
+
+</div>
+
+---
+
+## 🏅 GitHub Highlights
+
+<div align="center">
+
+<p><b>🏆 GitHub Trophies</b></p>
+<sub>Live trophy widgets are currently unavailable from the public hosting service, so this section is kept clean rather than showing a broken image.</sub>
 
 <br><br>
 
-**dinakarnayak4248@gmail.com**
+<p><b>🐍 Contribution Activity</b></p>
 
-**Leicester, United Kingdom**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinakarnayak/Dinakarnayak/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinakarnayak/Dinakarnayak/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Dinakarnayak/Dinakarnayak/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity snake">
+</picture>
+
+<br>
+
+<sub>Contribution activity visualised from my GitHub contribution calendar and generated automatically by GitHub Actions.</sub>
+
+</div>
+
+---
+
+## 🧠 Engineering Snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-Building-3F74DD?style=for-the-badge" alt="AI Agents">
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-6E7888?style=for-the-badge" alt="Generative AI">
+<img src="https://img.shields.io/badge/UI%2FUX-Design%20%2B%20Engineering-3F74DD?style=for-the-badge" alt="UI UX">
+<img src="https://img.shields.io/badge/Backend-Engineering-3F74DD?style=for-the-badge" alt="Backend Engineering">
+<img src="https://img.shields.io/badge/Responsive%20Web-Interfaces-6E7888?style=for-the-badge" alt="Responsive Web">
+<img src="https://img.shields.io/badge/Production-Minded-6E7888?style=for-the-badge" alt="Production minded">
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖
+**AI Systems**
+
+<sub>Agents · LLMs · NLP</sub>
+
+</td>
+<td width="25%" align="center">
+
+### ⚙️
+**Software**
+
+<sub>APIs · Backend · Full-Stack</sub>
+
+</td>
+<td width="25%" align="center">
+
+### 🎨
+**UI/UX**
+
+<sub>UX · UI · Responsive</sub>
+
+</td>
+<td width="25%" align="center">
+
+### ☁️
+**Deployment**
+
+<sub>AWS · Docker · Vercel</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Build-Research%20%2B%20Engineering-3F74DD?style=flat-square" alt="Build">
+<img src="https://img.shields.io/badge/Approach-Prototype%20%2B%20Iterate-6E7888?style=flat-square" alt="Approach">
+<img src="https://img.shields.io/badge/Focus-Practical%20AI-3F74DD?style=flat-square" alt="Focus">
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://dinakarnayak.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-3F74DD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/Dinakarnayak">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<b>dinakarnayak4248@gmail.com</b>
+
+<br><br>
+
+<sub>AI/ML Engineer · Software Developer · UI/UX Builder · Leicester, UK</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Build. Learn. Iterate.
+
+<a href="https://github.com/Dinakarnayak?tab=repositories">Explore my repositories →</a>
 
 </div>
