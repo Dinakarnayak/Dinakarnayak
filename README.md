@@ -1,5 +1,17 @@
 # Hi, I'm Dinakar Nayak Narasimha Murthy 👋
 
+<p align="center">
+  <a href="https://dinakarnayak.github.io/Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=3F74DD&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Software+Developer;Generative+AI+%7C+NLP+%7C+LLMs;AI+Agents+%7C+Backend+%7C+Full-Stack;Curious+about+intelligent+systems." alt="Animated introduction">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dinakarnayak"><img src="https://img.shields.io/badge/GitHub-Dinakarnayak-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://dinakarnayak.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Open-3F74DD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Portfolio"></a>
+</p>
+
 ### AI/ML Engineer | Software Developer
 
 I build practical AI and software systems across **AI/ML, NLP, backend APIs, full-stack development, and developer tooling**.
@@ -123,7 +135,7 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 ## 🌐 Explore My Work
 
 ### 🌍 Portfolio
-**[Visit my live portfolio →](https://dinakarnayak.github.io/Portfolio/)**
+**[Open Portfolio →](https://dinakarnayak.github.io/Portfolio/)**
 
 ### 💼 LinkedIn
 **[Connect with me on LinkedIn →](https://www.linkedin.com/in/dinakar-nayak-n-125762232/)**
