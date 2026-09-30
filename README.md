@@ -4,7 +4,7 @@
 
 # Dinakar Nayak Narasimha Murthy
 
-### AI/ML Engineer · Software Developer
+### AI/ML Engineer · Software Developer · AI Systems Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=850&color=3F74DD&center=true&vCenter=true&width=760&lines=Building+practical+AI+systems;Generative+AI+%7C+NLP+%7C+LLMs;AI+Agents+%7C+Backend+%7C+Full-Stack;Research+%E2%86%92+Prototype+%E2%86%92+Product" alt="Animated introduction">
 
@@ -17,6 +17,7 @@
 <a href="https://github.com/Dinakarnayak"><img src="https://komarev.com/ghpvc/?username=Dinakarnayak&label=Profile%20Views&color=3F74DD&style=flat-square" alt="Profile views"></a>
 <a href="https://github.com/Dinakarnayak?tab=followers"><img src="https://img.shields.io/github/followers/Dinakarnayak?label=Followers&style=flat-square&color=3F74DD" alt="GitHub followers"></a>
 <a href="https://github.com/Dinakarnayak?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-6E7888?style=flat-square" alt="Repositories"></a>
+<a href="https://github.com/Dinakarnayak/Dinakarnayak"><img src="https://img.shields.io/github/last-commit/Dinakarnayak/Dinakarnayak?label=Updated&style=flat-square&color=3F74DD" alt="Last updated"></a>
 
 <br>
 
@@ -32,6 +33,8 @@ Building practical intelligent systems across **AI agents, Generative AI, NLP, L
 <a href="https://dinakarnayak.github.io/Portfolio/"><b>🌐 Open Portfolio →</b></a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/dinakar-nayak-n-125762232/"><b>💼 LinkedIn →</b></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Dinakarnayak?tab=repositories"><b>🚀 Explore Projects →</b></a>
 </p>
 
 </td>
@@ -44,6 +47,22 @@ Building practical intelligent systems across **AI agents, Generative AI, NLP, L
 </table>
 
 </div>
+
+---
+
+## 🧩 Engineering Identity
+
+<div align="center">
+
+| 🧠 AI Engineering | ⚙️ Software Engineering | 🚀 Product Mindset |
+|---|---|---|
+| Agents · LLMs · NLP · ML | APIs · Backend · Full-Stack | Prototype · Evaluate · Deploy |
+
+</div>
+
+> **Research → Prototype → Evaluate → Deploy**
+
+I focus on building AI systems that are not only functional, but also **observable, testable, explainable, and practical to deploy**.
 
 ---
 
@@ -221,6 +240,14 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinakarnayak&theme=github_dark" alt="GitHub profile activity summary">
+
+</div>
+
+
+
+<div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dinakarnayak&show_icons=true&hide_border=true&theme=transparent&title_color=3F74DD&icon_color=3F74DD&text_color=6E7888&rank_icon=github" alt="GitHub statistics">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinakarnayak&layout=compact&hide_border=true&theme=transparent&title_color=3F74DD&text_color=6E7888&langs_count=8" alt="Top languages">
 
@@ -255,6 +282,17 @@ Worked in a fast-paced fulfillment operation alongside continued focus on AI/ML 
 ---
 
 ## 🧠 Engineering Snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-Building-3F74DD?style=for-the-badge" alt="AI Agents">
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-6E7888?style=for-the-badge" alt="Generative AI">
+<img src="https://img.shields.io/badge/Backend-Engineering-3F74DD?style=for-the-badge" alt="Backend Engineering">
+<img src="https://img.shields.io/badge/Production-Minded-6E7888?style=for-the-badge" alt="Production minded">
+
+</div>
+
+
 
 <table>
 <tr>
