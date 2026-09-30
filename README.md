@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3200&pause=1200&color=3F74DD&center=true&vCenter=true&width=900&lines=Dinakar+Nayak+Narasimha+Murthy;AI%2FML+Engineer+%C2%B7+Software+Developer+%C2%B7+UI%2FUX+Builder" alt="Animated name and professional identity">
+
 # Dinakar Nayak Narasimha Murthy
 
 ### AI/ML Engineer · Software Developer · UI/UX Builder
