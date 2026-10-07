@@ -515,3 +515,18 @@ Cloud · Docker · CI/CD
 I recently refreshed my portfolio website to bring my AI/ML projects, software work, experience, skills, certifications, and contact details together in one place. The site is built as a responsive static portfolio with HTML, CSS, and JavaScript.
 
 [Explore my portfolio →](https://dinakarnayak.github.io/Portfolio/)
+
+
+
+---
+
+## 🧭 Explore the Portfolio
+
+Jump to the section you need:
+
+- [Selected projects](https://dinakarnayak.github.io/Portfolio/#work)
+- [Experience & education](https://dinakarnayak.github.io/Portfolio/#experience)
+- [Technical skills](https://dinakarnayak.github.io/Portfolio/#skills)
+- [Achievements](https://dinakarnayak.github.io/Portfolio/#achievements)
+- [Certifications](https://dinakarnayak.github.io/Portfolio/#certifications)
+- [Contact](https://dinakarnayak.github.io/Portfolio/#contact)
