@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://dinakarnayak.github.io/Portfolio/">
+    <img src="https://raw.githubusercontent.com/Dinakarnayak/Dinakarnayak/main/assets/profile-dashboard.svg" alt="Dinakar's AI and software engineering profile dashboard" width="100%" />
+  </a>
+</p>
+
+---
+
 <!-- PROFILE HEADER -->
 
 <div align="center">
