@@ -563,3 +563,19 @@ Jump to the section you need:
 - **Software & product development:** AI product exploration at Next Tech AI, backend and full-stack projects, and responsive web experiences.
 
 [Explore projects and experience →](https://dinakarnayak.github.io/Portfolio/#work)
+
+
+---
+
+<!-- ADDITIONAL PROFILE INSIGHTS -->
+<h2 align="center">📊 Repository Language Insights</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinakarnayak&theme=tokyonight" alt="Repository languages" height=180 />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dinakarnayak&theme=tokyonight" alt="Most-used languages by commits" height=180 />
+</p>
+
+<p align="center"><i>Language summaries generated from my public GitHub repositories and commit history.</i></p>
+
+---
+
