@@ -70,6 +70,16 @@ I focus on building AI products that are not only functional, but also **observa
 
 ---
 
+## ✦ Profile Navigation
+
+<div align="center">
+
+[🧠 Research](#-research--engineering-portfolio) · [🚀 Featured Work](#-featured-work) · [🛠️ Tech Stack](#️-tech-stack) · [💼 Experience](#-experience) · [📚 Research Library](#-research-library) · [🌐 Connect](#-connect)
+
+</div>
+
+> **Current direction:** research-grade AI systems, observable agents, multimodal intelligence, explainable ML, and production-minded software engineering.
+
 ## 🧭 About Me
 
 > **Curious about intelligent systems. Grounded in engineering.**
