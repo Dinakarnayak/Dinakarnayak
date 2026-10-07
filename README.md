@@ -506,3 +506,12 @@ Cloud · Docker · CI/CD
 <a href="https://github.com/Dinakarnayak?tab=repositories">Explore my repositories →</a>
 
 </div>
+
+
+---
+
+## 🌐 Personal Portfolio
+
+I recently refreshed my portfolio website to bring my AI/ML projects, software work, experience, skills, certifications, and contact details together in one place. The site is built as a responsive static portfolio with HTML, CSS, and JavaScript.
+
+[Explore my portfolio →](https://dinakarnayak.github.io/Portfolio/)
