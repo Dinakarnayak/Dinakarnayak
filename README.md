@@ -530,3 +530,28 @@ Jump to the section you need:
 - [Achievements](https://dinakarnayak.github.io/Portfolio/#achievements)
 - [Certifications](https://dinakarnayak.github.io/Portfolio/#certifications)
 - [Contact](https://dinakarnayak.github.io/Portfolio/#contact)
+
+
+
+---
+
+## 🏆 Academic & Project Highlights
+
+| Highlight | Detail |
+| --- | --- |
+| **95.55%** | Accuracy reported for my GRU-based EEG emotion classification model |
+| **8.31/10** | B.Tech Computer Science & Engineering (AI & ML) CGPA |
+| **15+ projects** | AI, software engineering, and research projects |
+| **2028** | Expected completion of my MSc Artificial Intelligence with Industry at the University of Leicester |
+
+[See the full portfolio →](https://dinakarnayak.github.io/Portfolio/#achievements)
+
+---
+
+## 🧩 Engineering Experience
+
+- **AI & machine learning:** EEG emotion classification, generative AI for fraud detection, and deep learning research.
+- **NLP & language systems:** Speech translation with LinguaSpeak, NLP pipelines, GPT-based course generation, and LLM fine-tuning.
+- **Software & product development:** AI product exploration at Next Tech AI, backend and full-stack projects, and responsive web experiences.
+
+[Explore projects and experience →](https://dinakarnayak.github.io/Portfolio/#work)
