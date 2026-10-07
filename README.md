@@ -473,6 +473,67 @@ Cloud · Docker · CI/CD
 
 </div>
 
+
+---
+
+## 🧬 Research & Engineering Portfolio
+
+> **Research → Experiment → Evaluate → Engineer → Communicate**
+
+I am building toward research-grade AI engineering: systems where model quality, uncertainty, safety, reproducibility, and real-world usability are evaluated together rather than treated as separate concerns.
+
+| Research direction | What I investigate |
+|---|---|
+| **Reliable AI agents** | Tool use, observability, evaluation, failure analysis, and human review |
+| **Multimodal intelligence** | Adaptive fusion, modality disagreement, uncertainty, and reproducible experiments |
+| **Explainable ML** | Risk scoring, feature attribution, calibration, and evidence-aware decisions |
+| **AI security** | Threat modelling, secure interfaces, adversarial thinking, and responsible deployment |
+
+### 🔬 Research standards
+
+- **Baselines:** compare proposed approaches against meaningful conventional methods.
+- **Ablations:** isolate which architectural components actually contribute to performance.
+- **Uncertainty:** report confidence, calibration, disagreement, and abstention where appropriate.
+- **Reproducibility:** version datasets, configurations, seeds, experiments, and evaluation scripts.
+- **Error analysis:** study failure modes instead of reporting accuracy alone.
+- **Responsible AI:** document limitations, risks, privacy considerations, and intended use.
+
+### 🚀 Selected research-grade builds
+
+**PolicyGuard AI** · Explainable privacy-policy and legal-risk analysis with evidence traces, calibrated confidence, risk taxonomy, and reproducible evaluation.
+
+**MedFusion-X** · Multimodal medical-AI research exploring adaptive fusion, modality disagreement, uncertainty estimation, and experiment telemetry.
+
+**TraceLens Agent Observability** · Evaluation and observability infrastructure for inspecting AI-agent traces, latency, failures, token usage, cost, and repeatable outputs.
+
+**Autonomous AI Coding Agent** · Human-reviewed software-engineering workflow connecting issue understanding, controlled execution, validation, and proposed code changes.
+
+---
+
+## 📐 System-Building Philosophy
+
+<div align="center">
+
+**PROBLEM** → **HYPOTHESIS** → **PROTOTYPE** → **BASELINE** → **EXPERIMENT** → **EVALUATE** → **DEPLOY** → **OBSERVE**
+
+</div>
+
+I care about the complete path from an idea to evidence that the idea works. For AI systems, that means combining **model development, software architecture, evaluation, security, UX, and operational observability**.
+
+---
+
+## 📚 Research Evidence
+
+When presenting an AI system, I aim to answer five questions:
+
+1. **What problem is being solved?**
+2. **What is the proposed contribution?**
+3. **How does it compare with a baseline?**
+4. **Where does it fail or become uncertain?**
+5. **Can another researcher reproduce the result?**
+
+This research-first approach is shaping my MSc work and the AI systems I build independently.
+
 ---
 
 ## 🌐 Connect
