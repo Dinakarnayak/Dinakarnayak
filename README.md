@@ -536,6 +536,13 @@ This research-first approach is shaping my MSc work and the AI systems I build i
 
 ---
 
+## 🗂️ Research Library
+
+I keep the research process and project-level research questions explicit so the profile is more than a list of technologies.
+
+- [Research methodology →](./profile/research-methodology.md)
+- [Research & engineering project index →](./profile/PROJECTS.md)
+
 ## 🌐 Connect
 
 <div align="center">
