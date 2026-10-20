@@ -6,7 +6,7 @@ on rate-limited public widget services.
     python profile_stats.py <username> <out_dir>        # live data
     python profile_stats.py <username> <out_dir> --demo # sample data, no network
 """
-import datetime, json, os, sys, urllib.request
+import datetime, json, os, sys, urllib.parse, urllib.request
 from collections import Counter
 from html import escape
 
@@ -64,7 +64,8 @@ def collect(user):
     commits = None
     try:
         since = (datetime.date.today() - datetime.timedelta(days=365)).isoformat()
-        commits = get(f"/search/commits?q=author:{user}+author-date:>{since}&per_page=1")["total_count"]
+        q = urllib.parse.quote(f"author:{user} author-date:>{since}")
+        commits = get(f"/search/commits?q={q}&per_page=1")["total_count"]
     except Exception as exc:
         print(f"warn: commits: {exc}", file=sys.stderr)
     return {
@@ -85,6 +86,8 @@ def demo():
 def fmt(n):
     if n is None:
         return "—"
+    if n >= 1_000_000:
+        return f"{n/1_000_000:.1f}M"
     return f"{n/1000:.1f}k" if n >= 10000 else f"{n:,}"
 
 
