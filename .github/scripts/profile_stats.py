@@ -6,7 +6,7 @@ on rate-limited public widget services.
     python profile_stats.py <username> <out_dir>        # live data
     python profile_stats.py <username> <out_dir> --demo # sample data, no network
 """
-import json, os, sys, urllib.request
+import datetime, json, os, sys, urllib.request
 from collections import Counter
 from html import escape
 
@@ -41,15 +41,6 @@ def get(path):
         return json.load(r)
 
 
-def graphql(query, variables):
-    req = urllib.request.Request(API + "/graphql", method="POST",
-        data=json.dumps({"query": query, "variables": variables}).encode(),
-        headers={"Authorization": f"Bearer {TOKEN}", "User-Agent": "profile-stats",
-                 "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
-
-
 def collect(user):
     profile = get(f"/users/{user}")
     repos, page = [], 1
@@ -68,25 +59,25 @@ def collect(user):
                     langs[lang] += size
         except Exception as exc:  # one bad repo shouldn't break the card
             print(f"warn: languages for {r['name']}: {exc}", file=sys.stderr)
-    contributions = None
-    if TOKEN:
-        try:
-            q = "query($u:String!){user(login:$u){contributionsCollection{contributionCalendar{totalContributions}}}}"
-            d = graphql(q, {"u": user})
-            contributions = d["data"]["user"]["contributionsCollection"]["contributionCalendar"]["totalContributions"]
-        except Exception as exc:
-            print(f"warn: contributions: {exc}", file=sys.stderr)
+    # Commits authored in the last 12 months (search API works with the Actions token;
+    # the contribution calendar via GraphQL does not, and silently returns 0).
+    commits = None
+    try:
+        since = (datetime.date.today() - datetime.timedelta(days=365)).isoformat()
+        commits = get(f"/search/commits?q=author:{user}+author-date:>{since}&per_page=1")["total_count"]
+    except Exception as exc:
+        print(f"warn: commits: {exc}", file=sys.stderr)
     return {
         "repos": len(own),
         "stars": sum(r.get("stargazers_count", 0) for r in own),
         "followers": profile.get("followers", 0),
-        "contributions": contributions,
+        "commits": commits,
         "languages": langs.most_common(),
     }
 
 
 def demo():
-    return {"repos": 27, "stars": 14, "followers": 31, "contributions": 486,
+    return {"repos": 27, "stars": 14, "followers": 31, "commits": 486,
             "languages": [("Python", 520000), ("TypeScript", 210000), ("JavaScript", 150000),
                           ("HTML", 90000), ("CSS", 60000), ("Java", 30000), ("Shell", 8000)]}
 
@@ -100,7 +91,7 @@ def fmt(n):
 def render(data, t):
     W, H = 1000, 236
     tiles = [("Public repos", data["repos"]), ("Stars earned", data["stars"]),
-             ("Followers", data["followers"]), ("Contributions · 12 mo", data["contributions"])]
+             ("Followers", data["followers"]), ("Commits · last 12 months", data["commits"])]
     tw, th, gap = 104, 64, 12
     tile_svg = ""
     for i, (label, val) in enumerate(tiles):
