@@ -6,7 +6,7 @@ on rate-limited public widget services.
     python profile_stats.py <username> <out_dir>        # live data
     python profile_stats.py <username> <out_dir> --demo # sample data, no network
 """
-import datetime, json, os, sys, urllib.parse, urllib.request
+import datetime, json, os, sys, urllib.request
 from collections import Counter
 from html import escape
 
@@ -59,26 +59,22 @@ def collect(user):
                     langs[lang] += size
         except Exception as exc:  # one bad repo shouldn't break the card
             print(f"warn: languages for {r['name']}: {exc}", file=sys.stderr)
-    # Commits authored in the last 12 months (search API works with the Actions token;
-    # the contribution calendar via GraphQL does not, and silently returns 0).
-    commits = None
-    try:
-        since = (datetime.date.today() - datetime.timedelta(days=365)).isoformat()
-        q = urllib.parse.quote(f"author:{user} author-date:>{since}")
-        commits = get(f"/search/commits?q={q}&per_page=1")["total_count"]
-    except Exception as exc:
-        print(f"warn: commits: {exc}", file=sys.stderr)
+    # Repos pushed to in the last 12 months — computed from the repo list itself,
+    # because commit search and the contribution calendar aren't reliable with the
+    # Actions token.
+    cutoff = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=365)).isoformat()
+    active = sum(1 for r in own if (r.get("pushed_at") or "") >= cutoff[:19])
     return {
         "repos": len(own),
         "stars": sum(r.get("stargazers_count", 0) for r in own),
         "followers": profile.get("followers", 0),
-        "commits": commits,
+        "active": active,
         "languages": langs.most_common(),
     }
 
 
 def demo():
-    return {"repos": 27, "stars": 14, "followers": 31, "commits": 486,
+    return {"repos": 27, "stars": 14, "followers": 31, "active": 18,
             "languages": [("Python", 520000), ("TypeScript", 210000), ("JavaScript", 150000),
                           ("HTML", 90000), ("CSS", 60000), ("Java", 30000), ("Shell", 8000)]}
 
@@ -94,7 +90,7 @@ def fmt(n):
 def render(data, t):
     W, H = 1000, 236
     tiles = [("Public repos", data["repos"]), ("Stars earned", data["stars"]),
-             ("Followers", data["followers"]), ("Commits · last 12 months", data["commits"])]
+             ("Followers", data["followers"]), ("Repos active · last 12 months", data["active"])]
     tw, th, gap = 104, 64, 12
     tile_svg = ""
     for i, (label, val) in enumerate(tiles):
